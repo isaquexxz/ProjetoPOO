@@ -1,5 +1,4 @@
 package SystemOS.Utils;
 
-public class OrdemDeServico {
-    
+public class SystemServiceOrder {
 }

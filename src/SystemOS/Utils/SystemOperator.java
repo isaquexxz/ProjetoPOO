@@ -1,4 +1,4 @@
 package SystemOS.Utils;
 
-public class SystemOperador {
+public class SystemOperator {
 }
